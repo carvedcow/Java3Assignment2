@@ -1,16 +1,14 @@
-/*
-
-Assignment 2
-
-•Create a bean (Employee)
-•Create an interface EmployeeService. It has one method (calculateSalary)
-•Create 2 implementations (ManagerService and ClerkService) that implements
-EmployeeService.
-•Inject EmployeeService into Employee.
-•Use annotation to configure the beans.
-•In App.java calculate the salary of the 2 employee.
-  
-  */
+/* Assignment 2
+ * 
+ * Create a bean (Employee)
+ * Create an interface EmployeeService. It has one method (calculateSalary)
+ * Create 2 implementations (ManagerService and ClerkService) that implements EmployeeService.
+ * Inject EmployeeService into Employee.
+ * Use annotation to configure the beans.
+ * Calculate the salary of the 2 employees in the app.java class. 
+ * 
+ * ANNOTATION USED
+ */
 
 package assignment2.app;
 
